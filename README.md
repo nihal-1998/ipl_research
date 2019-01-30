@@ -1,3 +1,4 @@
 # ipl_research
 research topic (ipl player's performance prediction)
+
 Fantasy cricket league is a rapidly growing industry in India. It has around 70 million users. Lots of people are really making money from it. Player selection is the most important task in Fantasy League. The performance of player depends on various factors such as opposition team, venue, his current form and many more. Fantasy league user have to make own team of 11 players from both the team players. In this paper we are going to predict the performance of player in IPL matches by analyzing previous year’s ball by ball data (2008-2018) using supervised machine learning techniques. Here we classified the batsman’s runs and bowler’s wickets in different range to pick or not to pick. We used Logistic Regression, Naïve Bayes, Decision Tree, Random Forest for prediction of the players. Random forest classifier found the most accurate classifier for the problem.
